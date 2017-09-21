@@ -23,7 +23,8 @@ p {
   font-size: 21px;
   color: gray;
 }
+/* This is a comment */
 .footer {
   text-align: right;
-  color: gray; 
+  color: gray;
 }
